@@ -1199,5 +1199,15 @@ form div:last-child{
     font-size: 22px;
     margin: 5px;
 }
+.dev-link{
+	font-size: 14px;
+	color: #fff;
+	text-align: center;
+	margin-top: 20px;
+}
+.dev-link a{
+	color: #fff;
+	text-decoration: underline;
+}
 
 /* footer */
